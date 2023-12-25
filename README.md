@@ -1,2 +1,2 @@
-# Jaypo-1-year
+# Kivy Lab 3
 About me in year 1 
